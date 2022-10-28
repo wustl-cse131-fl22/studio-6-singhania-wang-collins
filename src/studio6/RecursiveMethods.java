@@ -62,9 +62,17 @@ public class RecursiveMethods {
 	 */
 	public static int[] toReversed(int[] array) {
 
+		
 		// FIXME create a helper method that can recursively reverse the given array
+		 
+		if (i )
+	
 		return new int[0];
+		
 
+	}
+	public static int[] helper (int[]array, int i,  {
+		
 	}
 
 	/**
